@@ -56,4 +56,4 @@ import scala.concurrent.duration._
 
 Defaults.itSettings
 
-lazy val eventservice = project.in(file(".")).configs(IntegrationTest)
+lazy val $name;format="word"$ = project.in(file(".")).configs(IntegrationTest)
